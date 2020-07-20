@@ -1,7 +1,7 @@
 {
   "name": "mern-google-auth-blog",
   "version": "1.0.0",
-  "description": "MERN stack web app with google auth",
+  "description": "MERN stack blog app with google auth",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
