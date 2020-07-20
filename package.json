@@ -1,5 +1,5 @@
 {
-  "name": "Google OauthLogin",
+  "name": "mern-google-auth-blog",
   "version": "1.0.0",
   "description": "MERN stack web app with google auth",
   "main": "server.js",
